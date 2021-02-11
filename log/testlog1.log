@@ -1,0 +1,907 @@
+2020-11-05 16:58:39,622 [main] INFO logger_File - Start of Execution
+2020-11-05 16:58:50,603 [main] INFO logger_File - Browser opened successfully
+2020-11-05 16:58:50,612 [main] INFO logger_File - Test Execution Started
+2020-11-05 16:58:53,529 [main] INFO logger_File - Test was passed successfully
+2020-11-05 16:58:53,531 [main] INFO logger_File - method name: loginToHotel
+2020-11-05 16:58:56,270 [main] INFO logger_File - Browser Closed
+2020-11-05 16:58:56,338 [main] INFO logger_File - End of Execution
+2020-11-06 17:29:45,070 [main] INFO logger_File - Start of Execution
+2020-11-06 17:29:56,505 [main] INFO logger_File - Browser opened successfully
+2020-11-06 17:29:56,506 [main] INFO logger_File - Test Execution Started
+2020-11-06 17:29:58,599 [main] INFO logger_File - Test was passed successfully
+2020-11-06 17:29:58,603 [main] INFO logger_File - method name: loginToHotel
+2020-11-06 17:29:59,653 [main] INFO logger_File - Browser Closed
+2020-11-06 17:29:59,718 [main] INFO logger_File - End of Execution
+2020-11-08 11:20:46,299 [main] INFO logger_File - Start of Execution
+2020-11-08 11:21:20,827 [main] INFO logger_File - Browser opened successfully
+2020-11-08 11:21:20,846 [main] INFO logger_File - Test Execution Started
+2020-11-08 11:21:25,020 [main] INFO logger_File - Test was passed successfully
+2020-11-08 11:21:25,022 [main] INFO logger_File - method name: loginToHotel
+2020-11-08 11:21:25,845 [main] INFO logger_File - Browser Closed
+2020-11-08 11:21:25,890 [main] INFO logger_File - End of Execution
+2020-11-08 12:52:23,740 [main] INFO logger_File - Browser opened successfully
+2020-11-08 12:52:24,715 [main] INFO logger_File - Browser Closed
+2020-11-08 12:52:32,872 [main] INFO logger_File - Browser opened successfully
+2020-11-08 12:52:33,823 [main] INFO logger_File - Browser Closed
+2020-11-08 12:52:42,481 [main] INFO logger_File - Browser opened successfully
+2020-11-08 12:52:43,366 [main] INFO logger_File - Browser Closed
+2020-11-08 13:35:19,095 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:36:19,944 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:36:21,596 [main] INFO logger_File - Browser Closed
+2020-11-08 13:36:29,395 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:36:30,140 [main] INFO logger_File - Browser Closed
+2020-11-08 13:36:38,708 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:36:39,486 [main] INFO logger_File - Browser Closed
+2020-11-08 13:36:47,757 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:36:49,931 [main] INFO logger_File - Browser Closed
+2020-11-08 13:36:57,757 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:36:58,525 [main] INFO logger_File - Browser Closed
+2020-11-08 13:39:08,400 [main] INFO logger_File - Start of Execution
+2020-11-08 13:39:17,490 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:39:17,498 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:39:18,339 [main] INFO logger_File - Test was passed successfully
+2020-11-08 13:39:18,342 [main] INFO logger_File - method name: clickSignIn
+2020-11-08 13:39:19,365 [main] INFO logger_File - Browser Closed
+2020-11-08 13:39:27,124 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:39:27,130 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:39:27,147 [main] INFO logger_File - Test was failed
+2020-11-08 13:39:27,148 [main] INFO logger_File - method name: enterEmail
+2020-11-08 13:39:29,887 [main] INFO logger_File - Browser Closed
+2020-11-08 13:39:39,455 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:39:39,456 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:39:39,459 [main] INFO logger_File - Test was failed
+2020-11-08 13:39:39,460 [main] INFO logger_File - method name: register
+2020-11-08 13:39:41,915 [main] INFO logger_File - Browser Closed
+2020-11-08 13:39:49,762 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:39:49,774 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:39:49,780 [main] INFO logger_File - Test was failed
+2020-11-08 13:39:49,780 [main] INFO logger_File - method name: register
+2020-11-08 13:39:52,324 [main] INFO logger_File - Browser Closed
+2020-11-08 13:40:00,465 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:40:00,467 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:40:00,469 [main] INFO logger_File - Test was failed
+2020-11-08 13:40:00,470 [main] INFO logger_File - method name: register
+2020-11-08 13:40:03,049 [main] INFO logger_File - Browser Closed
+2020-11-08 13:40:03,135 [main] INFO logger_File - End of Execution
+2020-11-08 13:48:30,369 [main] INFO logger_File - Start of Execution
+2020-11-08 13:48:39,715 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:48:39,727 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:48:40,642 [main] INFO logger_File - Test was passed successfully
+2020-11-08 13:48:40,645 [main] INFO logger_File - method name: clickSignIn
+2020-11-08 13:48:42,274 [main] INFO logger_File - Browser Closed
+2020-11-08 13:48:50,472 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:48:50,479 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:48:50,496 [main] INFO logger_File - Test was failed
+2020-11-08 13:48:50,497 [main] INFO logger_File - method name: enterEmail
+2020-11-08 13:48:53,771 [main] INFO logger_File - Browser Closed
+2020-11-08 13:49:02,159 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:49:02,170 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:49:02,182 [main] INFO logger_File - Test was failed
+2020-11-08 13:49:02,184 [main] INFO logger_File - method name: register
+2020-11-08 13:49:04,641 [main] INFO logger_File - Browser Closed
+2020-11-08 13:49:12,446 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:49:12,453 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:49:12,456 [main] INFO logger_File - Test was failed
+2020-11-08 13:49:12,457 [main] INFO logger_File - method name: register
+2020-11-08 13:49:14,919 [main] INFO logger_File - Browser Closed
+2020-11-08 13:49:22,556 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:49:22,558 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:49:22,561 [main] INFO logger_File - Test was failed
+2020-11-08 13:49:22,561 [main] INFO logger_File - method name: register
+2020-11-08 13:49:25,181 [main] INFO logger_File - Browser Closed
+2020-11-08 13:49:25,219 [main] INFO logger_File - End of Execution
+2020-11-08 13:51:56,033 [main] INFO logger_File - Start of Execution
+2020-11-08 13:52:05,022 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:52:05,030 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:52:05,787 [main] INFO logger_File - Test was passed successfully
+2020-11-08 13:52:05,788 [main] INFO logger_File - method name: clickSignIn
+2020-11-08 13:52:06,710 [main] INFO logger_File - Browser Closed
+2020-11-08 13:52:14,445 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:52:14,448 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:52:14,465 [main] INFO logger_File - Test was failed
+2020-11-08 13:52:14,466 [main] INFO logger_File - method name: enterEmail
+2020-11-08 13:52:16,978 [main] INFO logger_File - Browser Closed
+2020-11-08 13:52:17,023 [main] INFO logger_File - End of Execution
+2020-11-08 13:53:21,714 [main] INFO logger_File - Start of Execution
+2020-11-08 13:53:30,702 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:53:30,715 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:53:31,495 [main] INFO logger_File - Test was passed successfully
+2020-11-08 13:53:31,496 [main] INFO logger_File - method name: clickSignIn
+2020-11-08 13:53:32,376 [main] INFO logger_File - Browser Closed
+2020-11-08 13:53:40,758 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:53:40,761 [main] INFO logger_File - Test Execution Started
+2020-11-08 13:53:40,780 [main] INFO logger_File - Test was failed
+2020-11-08 13:53:40,781 [main] INFO logger_File - method name: enterEmail
+2020-11-08 13:53:43,406 [main] INFO logger_File - Browser Closed
+2020-11-08 13:53:43,453 [main] INFO logger_File - End of Execution
+2020-11-08 13:54:31,958 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:54:33,526 [main] INFO logger_File - Browser Closed
+2020-11-08 13:54:41,679 [main] INFO logger_File - Browser opened successfully
+2020-11-08 13:54:42,468 [main] INFO logger_File - Browser Closed
+2020-11-08 13:56:47,319 [main] INFO logger_File - Start of Execution
+2020-11-08 13:56:47,349 [main] INFO logger_File - Test was failed
+2020-11-08 13:56:47,358 [main] INFO logger_File - method name: loginToHotel
+2020-11-08 13:56:47,390 [main] INFO logger_File - End of Execution
+2020-11-08 14:00:09,430 [main] INFO logger_File - Start of Execution
+2020-11-08 14:00:18,692 [main] INFO logger_File - Browser opened successfully
+2020-11-08 14:00:18,698 [main] INFO logger_File - Test Execution Started
+2020-11-08 14:00:20,864 [main] INFO logger_File - Test was passed successfully
+2020-11-08 14:00:20,869 [main] INFO logger_File - method name: loginToHotel
+2020-11-08 14:00:22,233 [main] INFO logger_File - Browser Closed
+2020-11-08 14:00:22,269 [main] INFO logger_File - End of Execution
+2020-11-08 18:35:22,232 [main] INFO logger_File - Start of Execution
+2020-11-08 18:35:31,978 [main] INFO logger_File - Browser opened successfully
+2020-11-08 18:35:31,984 [main] INFO logger_File - Test Execution Started
+2020-11-08 18:35:34,891 [main] INFO logger_File - Test was passed successfully
+2020-11-08 18:35:34,893 [main] INFO logger_File - method name: loginToHotel
+2020-11-08 18:35:37,335 [main] INFO logger_File - Browser Closed
+2020-11-08 18:35:37,386 [main] INFO logger_File - End of Execution
+2020-11-08 18:36:34,383 [main] INFO logger_File - Start of Execution
+2020-11-08 18:36:43,824 [main] INFO logger_File - Browser opened successfully
+2020-11-08 18:36:43,833 [main] INFO logger_File - Test Execution Started
+2020-11-08 18:36:44,642 [main] INFO logger_File - Test was passed successfully
+2020-11-08 18:36:44,643 [main] INFO logger_File - method name: clickSignIn
+2020-11-08 18:36:45,558 [main] INFO logger_File - Browser Closed
+2020-11-08 18:36:54,466 [main] INFO logger_File - Browser opened successfully
+2020-11-08 18:36:54,479 [main] INFO logger_File - Test Execution Started
+2020-11-08 18:36:54,523 [main] INFO logger_File - Test was failed
+2020-11-08 18:36:54,525 [main] INFO logger_File - method name: enterEmail
+2020-11-08 18:36:57,221 [main] INFO logger_File - Browser Closed
+2020-11-08 18:36:57,291 [main] INFO logger_File - End of Execution
+2020-11-08 19:14:15,429 [main] INFO logger_File - Start of Execution
+2020-11-08 19:14:15,454 [main] INFO logger_File - Test was failed
+2020-11-08 19:14:15,455 [main] INFO logger_File - method name: register
+2020-11-08 19:14:15,486 [main] INFO logger_File - End of Execution
+2020-11-09 10:38:06,328 [main] INFO logger_File - Start of Execution
+2020-11-09 10:38:27,099 [main] INFO logger_File - Browser opened successfully
+2020-11-09 10:38:27,117 [main] INFO logger_File - Test Execution Started
+2020-11-09 10:38:28,022 [main] INFO logger_File - Test was failed
+2020-11-09 10:38:28,027 [main] INFO logger_File - method name: loginToHotel
+2020-11-09 10:38:28,042 [main] INFO logger_File - Test was failed
+2020-11-09 10:38:28,043 [main] INFO logger_File - method name: loginToHotel
+2020-11-09 10:38:28,089 [main] INFO logger_File - End of Execution
+2020-11-09 10:44:12,517 [main] INFO logger_File - Start of Execution
+2020-11-09 10:44:23,643 [main] INFO logger_File - Browser opened successfully
+2020-11-09 10:44:23,652 [main] INFO logger_File - Test Execution Started
+2020-11-09 10:44:25,879 [main] INFO logger_File - Test was passed successfully
+2020-11-09 10:44:25,880 [main] INFO logger_File - method name: loginToHotel
+2020-11-09 10:44:26,726 [main] INFO logger_File - Browser Closed
+2020-11-09 10:44:26,762 [main] INFO logger_File - End of Execution
+2020-11-09 10:56:43,769 [main] INFO logger_File - Browser opened successfully
+2020-11-09 10:57:46,503 [main] INFO logger_File - Start of Execution
+2020-11-09 10:57:57,178 [main] INFO logger_File - Browser opened successfully
+2020-11-09 10:57:57,203 [main] INFO logger_File - Test Execution Started
+2020-11-09 10:58:14,544 [main] INFO logger_File - Test was failed
+2020-11-09 10:58:14,547 [main] INFO logger_File - method name: addAddress
+2020-11-09 10:58:14,669 [main] INFO logger_File - Test was failed
+2020-11-09 10:58:14,670 [main] INFO logger_File - method name: addAddress
+2020-11-09 10:58:14,732 [main] INFO logger_File - End of Execution
+2020-11-09 10:58:59,114 [main] INFO logger_File - Start of Execution
+2020-11-09 10:59:09,213 [main] INFO logger_File - Browser opened successfully
+2020-11-09 10:59:09,238 [main] INFO logger_File - Test Execution Started
+2020-11-09 10:59:23,472 [main] INFO logger_File - Test was failed
+2020-11-09 10:59:23,475 [main] INFO logger_File - method name: addAddress
+2020-11-09 10:59:23,626 [main] INFO logger_File - Test was failed
+2020-11-09 10:59:23,629 [main] INFO logger_File - method name: addAddress
+2020-11-09 10:59:24,004 [main] INFO logger_File - End of Execution
+2020-11-09 11:00:25,626 [main] INFO logger_File - Start of Execution
+2020-11-09 11:00:36,542 [main] INFO logger_File - Browser opened successfully
+2020-11-09 11:00:36,565 [main] INFO logger_File - Test Execution Started
+2020-11-09 11:00:39,937 [main] INFO logger_File - Test was passed successfully
+2020-11-09 11:00:39,938 [main] INFO logger_File - method name: loginToHotel
+2020-11-09 11:00:41,647 [main] INFO logger_File - Browser Closed
+2020-11-09 11:00:41,695 [main] INFO logger_File - End of Execution
+2020-11-09 11:01:00,762 [main] INFO logger_File - Start of Execution
+2020-11-09 11:01:12,547 [main] INFO logger_File - Browser opened successfully
+2020-11-09 11:01:12,567 [main] INFO logger_File - Test Execution Started
+2020-11-09 11:01:15,815 [main] INFO logger_File - Test was passed successfully
+2020-11-09 11:01:15,816 [main] INFO logger_File - method name: loginToHotel
+2020-11-09 11:01:16,610 [main] INFO logger_File - Browser Closed
+2020-11-09 11:01:16,654 [main] INFO logger_File - End of Execution
+2020-11-09 11:01:40,402 [main] INFO logger_File - Start of Execution
+2020-11-09 11:01:51,138 [main] INFO logger_File - Browser opened successfully
+2020-11-09 11:01:51,166 [main] INFO logger_File - Test Execution Started
+2020-11-09 11:01:54,936 [main] INFO logger_File - Test was passed successfully
+2020-11-09 11:01:54,939 [main] INFO logger_File - method name: loginToHotel
+2020-11-09 11:01:55,844 [main] INFO logger_File - Browser Closed
+2020-11-09 11:01:55,890 [main] INFO logger_File - End of Execution
+2020-11-09 11:02:25,130 [main] INFO logger_File - Start of Execution
+2020-11-09 11:02:36,354 [main] INFO logger_File - Browser opened successfully
+2020-11-09 11:02:36,368 [main] INFO logger_File - Test Execution Started
+2020-11-09 11:02:42,969 [main] INFO logger_File - Test was passed successfully
+2020-11-09 11:02:42,972 [main] INFO logger_File - method name: loginToHotel
+2020-11-09 11:02:43,842 [main] INFO logger_File - Browser Closed
+2020-11-09 11:02:43,882 [main] INFO logger_File - End of Execution
+2020-11-09 11:22:26,835 [main] INFO logger_File - Start of Execution
+2020-11-09 11:22:26,871 [main] INFO logger_File - Test was failed
+2020-11-09 11:22:26,873 [main] INFO logger_File - method name: fillOutForm
+2020-11-09 11:22:26,908 [main] INFO logger_File - End of Execution
+2020-11-09 11:24:21,420 [main] INFO logger_File - Start of Execution
+2020-11-09 11:24:21,461 [main] INFO logger_File - Test was failed
+2020-11-09 11:24:21,465 [main] INFO logger_File - method name: fillOutForm
+2020-11-09 11:24:21,504 [main] INFO logger_File - End of Execution
+2020-11-09 11:30:04,139 [main] INFO logger_File - Start of Execution
+2020-11-09 11:30:16,543 [main] INFO logger_File - Browser opened successfully
+2020-11-09 11:30:16,576 [main] INFO logger_File - Test Execution Started
+2020-11-09 11:30:25,226 [main] INFO logger_File - Test was passed successfully
+2020-11-09 11:30:25,227 [main] INFO logger_File - method name: loginToHotel
+2020-11-09 11:30:27,165 [main] INFO logger_File - Browser Closed
+2020-11-09 11:30:27,224 [main] INFO logger_File - End of Execution
+2020-11-09 13:07:10,037 [main] INFO logger_File - Start of Execution
+2020-11-09 13:07:20,412 [main] INFO logger_File - Browser opened successfully
+2020-11-09 13:07:20,418 [main] INFO logger_File - Test Execution Started
+2020-11-09 13:07:42,878 [main] INFO logger_File - Test was failed
+2020-11-09 13:07:43,185 [main] INFO logger_File - method name: addAddress
+2020-11-09 13:07:43,239 [main] INFO logger_File - Test was failed
+2020-11-09 13:07:43,240 [main] INFO logger_File - method name: addAddress
+2020-11-09 13:07:43,357 [main] INFO logger_File - End of Execution
+2020-11-10 17:02:19,116 [main] INFO logger_File - Start of Execution
+2020-11-10 17:02:35,018 [main] INFO logger_File - Browser opened successfully
+2020-11-10 17:02:35,037 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:02:36,786 [main] INFO logger_File - Test was passed successfully
+2020-11-10 17:02:36,787 [main] INFO logger_File - method name: clickSignIn
+2020-11-10 17:02:38,479 [main] INFO logger_File - Browser Closed
+2020-11-10 17:02:49,433 [main] INFO logger_File - Browser opened successfully
+2020-11-10 17:02:49,439 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:02:49,467 [main] INFO logger_File - Test was failed
+2020-11-10 17:02:49,469 [main] INFO logger_File - method name: enterEmail
+2020-11-10 17:02:54,679 [main] INFO logger_File - Browser Closed
+2020-11-10 17:03:08,036 [main] INFO logger_File - Browser opened successfully
+2020-11-10 17:03:08,038 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:03:08,042 [main] INFO logger_File - Test was failed
+2020-11-10 17:03:08,043 [main] INFO logger_File - method name: register
+2020-11-10 17:03:15,301 [main] INFO logger_File - Browser Closed
+2020-11-10 17:03:26,317 [main] INFO logger_File - Browser opened successfully
+2020-11-10 17:03:26,319 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:03:26,326 [main] INFO logger_File - Test was failed
+2020-11-10 17:03:26,326 [main] INFO logger_File - method name: register
+2020-11-10 17:03:31,896 [main] INFO logger_File - Browser Closed
+2020-11-10 17:03:42,398 [main] INFO logger_File - Browser opened successfully
+2020-11-10 17:03:42,400 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:03:42,408 [main] INFO logger_File - Test was failed
+2020-11-10 17:03:42,409 [main] INFO logger_File - method name: register
+2020-11-10 17:03:47,150 [main] INFO logger_File - Browser Closed
+2020-11-10 17:03:47,276 [main] INFO logger_File - End of Execution
+2020-11-10 17:05:57,947 [main] INFO logger_File - Start of Execution
+2020-11-10 17:06:12,363 [main] INFO logger_File - Browser opened successfully
+2020-11-10 17:06:12,454 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:06:14,320 [main] INFO logger_File - Test was passed successfully
+2020-11-10 17:06:14,327 [main] INFO logger_File - method name: clickSignIn
+2020-11-10 17:06:14,392 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:06:59,550 [main] INFO logger_File - Test was failed
+2020-11-10 17:06:59,551 [main] INFO logger_File - method name: enterEmail
+2020-11-10 17:07:02,298 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:07:47,337 [main] INFO logger_File - Test was failed
+2020-11-10 17:07:47,338 [main] INFO logger_File - method name: register
+2020-11-10 17:07:48,150 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:08:33,221 [main] INFO logger_File - Test was failed
+2020-11-10 17:08:33,223 [main] INFO logger_File - method name: register
+2020-11-10 17:08:34,008 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:09:19,123 [main] INFO logger_File - Test was failed
+2020-11-10 17:09:19,124 [main] INFO logger_File - method name: register
+2020-11-10 17:09:21,078 [main] INFO logger_File - Browser Closed
+2020-11-10 17:09:21,175 [main] INFO logger_File - End of Execution
+2020-11-10 17:12:04,544 [main] INFO logger_File - Start of Execution
+2020-11-10 17:12:17,111 [main] INFO logger_File - Browser opened successfully
+2020-11-10 17:12:17,234 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:12:18,792 [main] INFO logger_File - Test was passed successfully
+2020-11-10 17:12:18,793 [main] INFO logger_File - method name: clickSignIn
+2020-11-10 17:12:18,849 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:13:04,099 [main] INFO logger_File - Test was failed
+2020-11-10 17:13:04,101 [main] INFO logger_File - method name: enterEmail
+2020-11-10 17:13:04,806 [main] INFO logger_File - method name: register
+2020-11-10 17:13:06,019 [main] INFO logger_File - Browser Closed
+2020-11-10 17:13:06,117 [main] INFO logger_File - End of Execution
+2020-11-10 17:17:56,144 [main] INFO logger_File - Start of Execution
+2020-11-10 17:18:09,959 [main] INFO logger_File - Browser opened successfully
+2020-11-10 17:18:11,425 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:18:57,960 [main] INFO logger_File - Test was failed
+2020-11-10 17:18:57,964 [main] INFO logger_File - method name: register
+2020-11-10 17:18:58,876 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:19:45,464 [main] INFO logger_File - Test was failed
+2020-11-10 17:19:45,465 [main] INFO logger_File - method name: register
+2020-11-10 17:19:46,619 [main] INFO logger_File - Test Execution Started
+2020-11-10 17:20:33,640 [main] INFO logger_File - Test was failed
+2020-11-10 17:20:33,643 [main] INFO logger_File - method name: register
+2020-11-10 17:20:35,597 [main] INFO logger_File - Browser Closed
+2020-11-10 17:20:35,698 [main] INFO logger_File - End of Execution
+2020-11-13 10:14:01,223 [main] INFO logger_File - Start of Execution
+2020-11-13 10:14:11,183 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:14:11,835 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:15:01,227 [main] INFO logger_File - Test was failed
+2020-11-13 10:15:01,229 [main] INFO logger_File - method name: register
+2020-11-13 10:15:01,846 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:15:50,255 [main] INFO logger_File - Test was failed
+2020-11-13 10:15:50,256 [main] INFO logger_File - method name: register
+2020-11-13 10:15:50,264 [main] INFO logger_File - Test was failed
+2020-11-13 10:15:50,264 [main] INFO logger_File - method name: register
+2020-11-13 10:15:50,401 [main] INFO logger_File - End of Execution
+2020-11-13 10:16:01,562 [main] INFO logger_File - Start of Execution
+2020-11-13 10:16:10,709 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:16:11,474 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:16:23,131 [main] INFO logger_File - Test was failed
+2020-11-13 10:16:23,133 [main] INFO logger_File - method name: register
+2020-11-13 10:16:23,174 [main] INFO logger_File - Test was failed
+2020-11-13 10:16:23,181 [main] INFO logger_File - method name: register
+2020-11-13 10:16:27,369 [main] INFO logger_File - End of Execution
+2020-11-13 10:20:54,661 [main] INFO logger_File - Start of Execution
+2020-11-13 10:21:03,985 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:21:04,801 [main] INFO logger_File - Test was failed
+2020-11-13 10:21:04,801 [main] INFO logger_File - method name: register
+2020-11-13 10:21:07,498 [main] INFO logger_File - Browser Closed
+2020-11-13 10:21:07,548 [main] INFO logger_File - End of Execution
+2020-11-13 10:26:41,946 [main] INFO logger_File - Start of Execution
+2020-11-13 10:26:50,919 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:26:51,670 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:26:51,689 [main] INFO logger_File - Test was failed
+2020-11-13 10:26:51,690 [main] INFO logger_File - method name: register
+2020-11-13 10:26:53,482 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:26:53,485 [main] INFO logger_File - Test was failed
+2020-11-13 10:26:53,485 [main] INFO logger_File - method name: register
+2020-11-13 10:26:55,232 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:26:55,235 [main] INFO logger_File - Test was failed
+2020-11-13 10:26:55,235 [main] INFO logger_File - method name: register
+2020-11-13 10:26:57,072 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:26:57,957 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:26:57,958 [main] INFO logger_File - method name: clickSignIn
+2020-11-13 10:26:57,971 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:27:01,149 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:27:01,150 [main] INFO logger_File - method name: enterEmail
+2020-11-13 10:27:02,057 [main] INFO logger_File - Browser Closed
+2020-11-13 10:27:02,106 [main] INFO logger_File - End of Execution
+2020-11-13 10:29:59,917 [main] INFO logger_File - Start of Execution
+2020-11-13 10:30:09,275 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:30:10,019 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:30:10,028 [main] INFO logger_File - Test was failed
+2020-11-13 10:30:10,029 [main] INFO logger_File - method name: register
+2020-11-13 10:30:11,882 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:30:11,885 [main] INFO logger_File - Test was failed
+2020-11-13 10:30:11,886 [main] INFO logger_File - method name: register
+2020-11-13 10:30:13,619 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:30:13,621 [main] INFO logger_File - Test was failed
+2020-11-13 10:30:13,622 [main] INFO logger_File - method name: register
+2020-11-13 10:30:15,431 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:30:16,210 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:30:16,214 [main] INFO logger_File - method name: clickSignIn
+2020-11-13 10:30:16,237 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:30:19,404 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:30:19,406 [main] INFO logger_File - method name: enterEmail
+2020-11-13 10:30:20,269 [main] INFO logger_File - Browser Closed
+2020-11-13 10:30:20,304 [main] INFO logger_File - End of Execution
+2020-11-13 10:31:16,251 [main] INFO logger_File - Start of Execution
+2020-11-13 10:31:25,377 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:31:26,100 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:31:26,110 [main] INFO logger_File - Test was failed
+2020-11-13 10:31:26,111 [main] INFO logger_File - method name: register
+2020-11-13 10:31:27,933 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:31:27,937 [main] INFO logger_File - Test was failed
+2020-11-13 10:31:27,939 [main] INFO logger_File - method name: register
+2020-11-13 10:31:29,724 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:31:29,727 [main] INFO logger_File - Test was failed
+2020-11-13 10:31:29,727 [main] INFO logger_File - method name: register
+2020-11-13 10:31:31,483 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:31:32,290 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:31:32,291 [main] INFO logger_File - method name: clickSignIn
+2020-11-13 10:31:32,308 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:31:35,609 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:31:35,609 [main] INFO logger_File - method name: enterEmail
+2020-11-13 10:31:36,437 [main] INFO logger_File - Browser Closed
+2020-11-13 10:31:36,486 [main] INFO logger_File - End of Execution
+2020-11-13 10:31:57,246 [main] INFO logger_File - Start of Execution
+2020-11-13 10:32:06,087 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:32:06,749 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:32:06,758 [main] INFO logger_File - Test was failed
+2020-11-13 10:32:06,759 [main] INFO logger_File - method name: register
+2020-11-13 10:32:08,505 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:32:08,507 [main] INFO logger_File - Test was failed
+2020-11-13 10:32:08,509 [main] INFO logger_File - method name: register
+2020-11-13 10:32:10,325 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:32:10,328 [main] INFO logger_File - Test was failed
+2020-11-13 10:32:10,329 [main] INFO logger_File - method name: register
+2020-11-13 10:32:12,156 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:32:12,973 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:32:12,974 [main] INFO logger_File - method name: clickSignIn
+2020-11-13 10:32:12,991 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:32:16,344 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:32:16,345 [main] INFO logger_File - method name: enterEmail
+2020-11-13 10:32:17,179 [main] INFO logger_File - Browser Closed
+2020-11-13 10:32:17,222 [main] INFO logger_File - End of Execution
+2020-11-13 10:36:44,535 [main] INFO logger_File - Start of Execution
+2020-11-13 10:36:54,275 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:36:55,055 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:36:55,068 [main] INFO logger_File - Test was failed
+2020-11-13 10:36:55,069 [main] INFO logger_File - method name: register
+2020-11-13 10:36:57,108 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:36:57,111 [main] INFO logger_File - Test was failed
+2020-11-13 10:36:57,112 [main] INFO logger_File - method name: register
+2020-11-13 10:37:08,546 [main] INFO logger_File - Start of Execution
+2020-11-13 10:37:09,305 [main] INFO logger_File - Test was failed
+2020-11-13 10:37:09,308 [main] INFO logger_File - method name: register
+2020-11-13 10:37:18,425 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:37:19,162 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:37:19,177 [main] INFO logger_File - Test was failed
+2020-11-13 10:37:19,179 [main] INFO logger_File - method name: register
+2020-11-13 10:37:21,017 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:37:21,021 [main] INFO logger_File - Test was failed
+2020-11-13 10:37:21,024 [main] INFO logger_File - method name: register
+2020-11-13 10:37:21,783 [main] INFO logger_File - End of Execution
+2020-11-13 10:37:23,168 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:37:23,172 [main] INFO logger_File - Test was failed
+2020-11-13 10:37:23,173 [main] INFO logger_File - method name: register
+2020-11-13 10:37:24,920 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:37:26,192 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:37:26,193 [main] INFO logger_File - method name: clickSignIn
+2020-11-13 10:37:26,213 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:37:29,528 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:37:29,530 [main] INFO logger_File - method name: enterEmail
+2020-11-13 10:37:30,327 [main] INFO logger_File - Browser Closed
+2020-11-13 10:37:30,353 [main] INFO logger_File - End of Execution
+2020-11-13 10:38:48,945 [main] INFO logger_File - Start of Execution
+2020-11-13 10:38:58,569 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:38:59,208 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:38:59,217 [main] INFO logger_File - Test was failed
+2020-11-13 10:38:59,224 [main] INFO logger_File - method name: register
+2020-11-13 10:39:00,962 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:39:00,965 [main] INFO logger_File - Test was failed
+2020-11-13 10:39:00,965 [main] INFO logger_File - method name: register
+2020-11-13 10:39:02,717 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:39:02,720 [main] INFO logger_File - Test was failed
+2020-11-13 10:39:02,720 [main] INFO logger_File - method name: register
+2020-11-13 10:39:04,634 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:39:05,484 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:39:05,489 [main] INFO logger_File - method name: clickSignIn
+2020-11-13 10:39:05,510 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:39:08,794 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:39:08,794 [main] INFO logger_File - method name: enterEmail
+2020-11-13 10:39:09,605 [main] INFO logger_File - Browser Closed
+2020-11-13 10:39:09,665 [main] INFO logger_File - End of Execution
+2020-11-13 10:42:54,194 [main] INFO logger_File - Start of Execution
+2020-11-13 10:43:03,744 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:43:04,385 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:43:07,409 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:43:07,414 [main] INFO logger_File - method name: register
+2020-11-13 10:43:07,423 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:43:10,443 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:43:10,445 [main] INFO logger_File - method name: register
+2020-11-13 10:43:10,457 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:43:13,477 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:43:13,479 [main] INFO logger_File - method name: register
+2020-11-13 10:43:13,491 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:43:14,445 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:43:14,446 [main] INFO logger_File - method name: clickSignIn
+2020-11-13 10:43:14,458 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:43:17,768 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:43:17,769 [main] INFO logger_File - method name: enterEmail
+2020-11-13 10:43:18,553 [main] INFO logger_File - Browser Closed
+2020-11-13 10:43:18,592 [main] INFO logger_File - End of Execution
+2020-11-13 10:44:55,003 [main] INFO logger_File - Start of Execution
+2020-11-13 10:45:04,114 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:45:04,744 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:45:07,768 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:45:07,768 [main] INFO logger_File - method name: register
+2020-11-13 10:45:07,780 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:45:10,788 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:45:10,789 [main] INFO logger_File - method name: register
+2020-11-13 10:45:10,792 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:45:13,811 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:45:13,813 [main] INFO logger_File - method name: register
+2020-11-13 10:45:13,824 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:45:14,817 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:45:14,818 [main] INFO logger_File - method name: clickSignIn
+2020-11-13 10:45:14,827 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:45:18,150 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:45:18,150 [main] INFO logger_File - method name: enterEmail
+2020-11-13 10:45:18,947 [main] INFO logger_File - Browser Closed
+2020-11-13 10:45:18,994 [main] INFO logger_File - End of Execution
+2020-11-13 10:47:47,271 [main] INFO logger_File - Start of Execution
+2020-11-13 10:47:56,661 [main] INFO logger_File - Browser opened successfully
+2020-11-13 10:47:57,406 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:47:57,421 [main] INFO logger_File - Test was failed
+2020-11-13 10:47:57,427 [main] INFO logger_File - method name: register
+2020-11-13 10:47:59,314 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:47:59,318 [main] INFO logger_File - Test was failed
+2020-11-13 10:47:59,320 [main] INFO logger_File - method name: register
+2020-11-13 10:48:01,080 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:48:01,082 [main] INFO logger_File - Test was failed
+2020-11-13 10:48:01,083 [main] INFO logger_File - method name: register
+2020-11-13 10:48:02,908 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:48:03,710 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:48:03,711 [main] INFO logger_File - method name: clickSignIn
+2020-11-13 10:48:03,729 [main] INFO logger_File - Test Execution Started
+2020-11-13 10:48:07,026 [main] INFO logger_File - Test was passed successfully
+2020-11-13 10:48:07,027 [main] INFO logger_File - method name: enterEmail
+2020-11-13 10:48:07,839 [main] INFO logger_File - Browser Closed
+2020-11-13 10:48:07,889 [main] INFO logger_File - End of Execution
+2020-11-13 11:31:10,668 [main] INFO logger_File - Start of Execution
+2020-11-13 11:31:10,698 [main] INFO logger_File - Test was failed
+2020-11-13 11:31:10,698 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:31:10,733 [main] INFO logger_File - End of Execution
+2020-11-13 11:34:11,873 [main] INFO logger_File - Start of Execution
+2020-11-13 11:34:11,896 [main] INFO logger_File - Test was failed
+2020-11-13 11:34:11,897 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:34:11,922 [main] INFO logger_File - End of Execution
+2020-11-13 11:35:00,878 [main] INFO logger_File - Start of Execution
+2020-11-13 11:35:00,907 [main] INFO logger_File - Test was failed
+2020-11-13 11:35:00,907 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:35:00,934 [main] INFO logger_File - End of Execution
+2020-11-13 11:37:16,977 [main] INFO logger_File - Start of Execution
+2020-11-13 11:37:17,000 [main] INFO logger_File - Test was failed
+2020-11-13 11:37:17,001 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:37:17,033 [main] INFO logger_File - End of Execution
+2020-11-13 11:40:11,505 [main] INFO logger_File - Start of Execution
+2020-11-13 11:40:20,279 [main] INFO logger_File - Browser opened successfully
+2020-11-13 11:40:20,288 [main] INFO logger_File - Test Execution Started
+2020-11-13 11:40:23,367 [main] INFO logger_File - Test was passed successfully
+2020-11-13 11:40:23,368 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:40:24,353 [main] INFO logger_File - Browser Closed
+2020-11-13 11:40:30,999 [main] INFO logger_File - Browser opened successfully
+2020-11-13 11:40:31,001 [main] INFO logger_File - Test Execution Started
+2020-11-13 11:40:34,021 [main] INFO logger_File - Test was passed successfully
+2020-11-13 11:40:34,021 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:40:34,944 [main] INFO logger_File - Browser Closed
+2020-11-13 11:40:34,996 [main] INFO logger_File - End of Execution
+2020-11-13 11:41:48,533 [main] INFO logger_File - Start of Execution
+2020-11-13 11:41:57,355 [main] INFO logger_File - Browser opened successfully
+2020-11-13 11:41:57,366 [main] INFO logger_File - Test Execution Started
+2020-11-13 11:42:00,903 [main] INFO logger_File - Test was passed successfully
+2020-11-13 11:42:00,905 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:42:01,838 [main] INFO logger_File - Browser Closed
+2020-11-13 11:42:08,651 [main] INFO logger_File - Browser opened successfully
+2020-11-13 11:42:08,653 [main] INFO logger_File - Test Execution Started
+2020-11-13 11:42:12,144 [main] INFO logger_File - Test was passed successfully
+2020-11-13 11:42:12,146 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:42:13,068 [main] INFO logger_File - Browser Closed
+2020-11-13 11:42:13,105 [main] INFO logger_File - End of Execution
+2020-11-13 11:48:28,857 [main] INFO logger_File - Start of Execution
+2020-11-13 11:48:29,460 [main] INFO logger_File - Test was failed
+2020-11-13 11:48:29,461 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:48:29,488 [main] INFO logger_File - End of Execution
+2020-11-13 11:53:09,924 [main] INFO logger_File - Start of Execution
+2020-11-13 11:53:18,304 [main] INFO logger_File - Browser opened successfully
+2020-11-13 11:53:18,313 [main] INFO logger_File - Test Execution Started
+2020-11-13 11:53:21,989 [main] INFO logger_File - Test was passed successfully
+2020-11-13 11:53:21,990 [main] INFO logger_File - method name: sendInquiry
+2020-11-13 11:53:22,915 [main] INFO logger_File - Browser Closed
+2020-11-13 11:53:22,950 [main] INFO logger_File - End of Execution
+2020-11-19 11:36:36,837 [main] INFO logger_File - Start of Execution
+2020-11-19 11:36:53,415 [main] INFO logger_File - Browser opened successfully
+2020-11-19 11:36:55,457 [main] INFO logger_File - Test Execution Started
+2020-11-19 11:36:55,480 [main] INFO logger_File - Test was failed
+2020-11-19 11:36:55,480 [main] INFO logger_File - method name: register
+2020-11-19 11:36:56,271 [main] INFO logger_File - Test Execution Started
+2020-11-19 11:36:56,297 [main] INFO logger_File - Test was failed
+2020-11-19 11:36:56,314 [main] INFO logger_File - method name: register
+2020-11-19 11:36:57,040 [main] INFO logger_File - Test Execution Started
+2020-11-19 11:36:57,044 [main] INFO logger_File - Test was failed
+2020-11-19 11:36:57,045 [main] INFO logger_File - method name: register
+2020-11-19 11:36:57,731 [main] INFO logger_File - Test Execution Started
+2020-11-19 11:37:13,149 [main] INFO logger_File - Test was failed
+2020-11-19 11:37:13,155 [main] INFO logger_File - method name: clickSignIn
+2020-11-19 11:37:25,210 [main] INFO logger_File - Test was failed
+2020-11-19 11:37:25,210 [main] INFO logger_File - method name: clickSignIn
+2020-11-19 11:37:33,588 [main] INFO logger_File - End of Execution
+2020-11-19 11:41:10,972 [main] INFO logger_File - Start of Execution
+2020-11-19 11:41:22,135 [main] INFO logger_File - Browser opened successfully
+2020-11-19 11:41:24,681 [main] INFO logger_File - Test Execution Started
+2020-11-19 11:41:24,701 [main] INFO logger_File - Test was failed
+2020-11-19 11:41:24,702 [main] INFO logger_File - method name: register
+2020-11-19 11:41:25,917 [main] INFO logger_File - Test Execution Started
+2020-11-19 11:41:25,921 [main] INFO logger_File - Test was failed
+2020-11-19 11:41:25,923 [main] INFO logger_File - method name: register
+2020-11-19 11:41:27,252 [main] INFO logger_File - Test Execution Started
+2020-11-19 11:41:27,256 [main] INFO logger_File - Test was failed
+2020-11-19 11:41:27,257 [main] INFO logger_File - method name: register
+2020-11-19 11:41:28,687 [main] INFO logger_File - Test Execution Started
+2020-11-19 11:42:13,858 [main] INFO logger_File - Test was failed
+2020-11-19 11:42:13,859 [main] INFO logger_File - method name: clickSignIn
+2020-11-19 11:42:15,264 [main] INFO logger_File - method name: enterEmail
+2020-11-19 11:42:16,709 [main] INFO logger_File - Browser Closed
+2020-11-19 11:42:16,738 [main] INFO logger_File - End of Execution
+2020-11-19 12:50:47,283 [main] INFO logger_File - Start of Execution
+2020-11-19 12:50:48,336 [main] INFO logger_File - Test was failed
+2020-11-19 12:50:48,363 [main] INFO logger_File - method name: registerUsers
+2020-11-19 12:50:48,402 [main] INFO logger_File - End of Execution
+2020-11-19 12:53:11,805 [main] INFO logger_File - Start of Execution
+2020-11-19 12:53:22,927 [main] INFO logger_File - Browser opened successfully
+2020-11-19 12:53:22,933 [main] INFO logger_File - Test Execution Started
+2020-11-19 12:53:22,952 [main] INFO logger_File - Test was failed
+2020-11-19 12:53:22,955 [main] INFO logger_File - method name: registerUsers
+2020-11-19 12:53:25,702 [main] INFO logger_File - Browser Closed
+2020-11-19 12:53:33,070 [main] INFO logger_File - Browser opened successfully
+2020-11-19 12:53:33,072 [main] INFO logger_File - Test Execution Started
+2020-11-19 12:53:33,077 [main] INFO logger_File - Test was failed
+2020-11-19 12:53:33,077 [main] INFO logger_File - method name: registerUsers
+2020-11-19 12:53:35,778 [main] INFO logger_File - Browser Closed
+2020-11-19 12:53:35,847 [main] INFO logger_File - End of Execution
+2020-11-19 12:55:24,183 [main] INFO logger_File - Start of Execution
+2020-11-19 12:55:34,419 [main] INFO logger_File - Browser opened successfully
+2020-11-19 12:55:34,430 [main] INFO logger_File - Test Execution Started
+2020-11-19 12:55:34,445 [main] INFO logger_File - Test was failed
+2020-11-19 12:55:34,446 [main] INFO logger_File - method name: registerUsers
+2020-11-19 12:55:37,081 [main] INFO logger_File - Browser Closed
+2020-11-19 12:55:45,311 [main] INFO logger_File - Browser opened successfully
+2020-11-19 12:55:45,315 [main] INFO logger_File - Test Execution Started
+2020-11-19 12:55:45,318 [main] INFO logger_File - Test was failed
+2020-11-19 12:55:45,323 [main] INFO logger_File - method name: registerUsers
+2020-11-19 12:55:47,850 [main] INFO logger_File - Browser Closed
+2020-11-19 12:55:47,936 [main] INFO logger_File - End of Execution
+2020-11-19 12:59:22,277 [main] INFO logger_File - Start of Execution
+2020-11-19 12:59:33,010 [main] INFO logger_File - Browser opened successfully
+2020-11-19 12:59:33,020 [main] INFO logger_File - Test Execution Started
+2020-11-19 12:59:33,042 [main] INFO logger_File - Test was failed
+2020-11-19 12:59:33,043 [main] INFO logger_File - method name: registerUsers
+2020-11-19 12:59:35,807 [main] INFO logger_File - Browser Closed
+2020-11-19 12:59:43,586 [main] INFO logger_File - Browser opened successfully
+2020-11-19 12:59:43,589 [main] INFO logger_File - Test Execution Started
+2020-11-19 12:59:43,592 [main] INFO logger_File - Test was failed
+2020-11-19 12:59:43,593 [main] INFO logger_File - method name: registerUsers
+2020-11-19 12:59:46,278 [main] INFO logger_File - Browser Closed
+2020-11-19 12:59:46,375 [main] INFO logger_File - End of Execution
+2020-11-19 13:02:30,509 [main] INFO logger_File - Start of Execution
+2020-11-19 13:02:30,572 [main] INFO logger_File - Test was failed
+2020-11-19 13:02:30,573 [main] INFO logger_File - method name: sendInquiry
+2020-11-19 13:02:30,624 [main] INFO logger_File - End of Execution
+2020-11-19 13:04:07,882 [main] INFO logger_File - Start of Execution
+2020-11-19 13:04:07,931 [main] INFO logger_File - Test was failed
+2020-11-19 13:04:07,933 [main] INFO logger_File - method name: sendInquiry
+2020-11-19 13:04:07,981 [main] INFO logger_File - End of Execution
+2020-11-19 13:04:23,625 [main] INFO logger_File - Start of Execution
+2020-11-19 13:04:23,727 [main] INFO logger_File - Test was failed
+2020-11-19 13:04:23,727 [main] INFO logger_File - method name: sendInquiry
+2020-11-19 13:04:23,777 [main] INFO logger_File - End of Execution
+2020-11-19 13:07:01,146 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:07:02,439 [main] INFO logger_File - Browser Closed
+2020-11-19 13:07:10,239 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:07:11,319 [main] INFO logger_File - Browser Closed
+2020-11-19 13:12:57,940 [main] INFO logger_File - Start of Execution
+2020-11-19 13:13:08,085 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:13:08,106 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:13:12,291 [main] INFO logger_File - Test was passed successfully
+2020-11-19 13:13:12,292 [main] INFO logger_File - method name: sendInquiry
+2020-11-19 13:13:13,427 [main] INFO logger_File - Browser Closed
+2020-11-19 13:13:20,937 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:13:20,948 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:13:24,946 [main] INFO logger_File - Test was passed successfully
+2020-11-19 13:13:24,949 [main] INFO logger_File - method name: sendInquiry
+2020-11-19 13:13:26,072 [main] INFO logger_File - Browser Closed
+2020-11-19 13:13:26,108 [main] INFO logger_File - End of Execution
+2020-11-19 13:17:16,271 [main] INFO logger_File - Start of Execution
+2020-11-19 13:17:26,597 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:17:26,610 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:17:31,642 [main] INFO logger_File - Test was passed successfully
+2020-11-19 13:17:31,643 [main] INFO logger_File - method name: sendInquiry
+2020-11-19 13:17:32,862 [main] INFO logger_File - Browser Closed
+2020-11-19 13:17:40,549 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:17:40,557 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:17:45,420 [main] INFO logger_File - Test was passed successfully
+2020-11-19 13:17:45,427 [main] INFO logger_File - method name: sendInquiry
+2020-11-19 13:17:46,526 [main] INFO logger_File - Browser Closed
+2020-11-19 13:17:46,591 [main] INFO logger_File - End of Execution
+2020-11-19 13:18:16,345 [main] INFO logger_File - Start of Execution
+2020-11-19 13:18:26,163 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:18:26,173 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:18:33,817 [main] INFO logger_File - Test was passed successfully
+2020-11-19 13:18:33,818 [main] INFO logger_File - method name: sendInquiry
+2020-11-19 13:18:34,945 [main] INFO logger_File - Browser Closed
+2020-11-19 13:18:42,109 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:18:42,119 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:18:49,897 [main] INFO logger_File - Test was passed successfully
+2020-11-19 13:18:49,898 [main] INFO logger_File - method name: sendInquiry
+2020-11-19 13:18:51,033 [main] INFO logger_File - Browser Closed
+2020-11-19 13:18:51,088 [main] INFO logger_File - End of Execution
+2020-11-19 13:28:27,149 [main] INFO logger_File - Start of Execution
+2020-11-19 13:28:37,808 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:28:37,816 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:28:37,831 [main] INFO logger_File - Test was failed
+2020-11-19 13:28:37,832 [main] INFO logger_File - method name: registerUsers
+2020-11-19 13:28:41,290 [main] INFO logger_File - Browser Closed
+2020-11-19 13:28:48,517 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:28:48,526 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:28:48,532 [main] INFO logger_File - Test was failed
+2020-11-19 13:28:48,534 [main] INFO logger_File - method name: registerUsers
+2020-11-19 13:28:50,887 [main] INFO logger_File - Browser Closed
+2020-11-19 13:28:50,968 [main] INFO logger_File - End of Execution
+2020-11-19 13:35:51,110 [main] INFO logger_File - Start of Execution
+2020-11-19 13:36:01,550 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:36:01,559 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:36:01,601 [main] INFO logger_File - Test was failed
+2020-11-19 13:36:01,601 [main] INFO logger_File - method name: registerUsers
+2020-11-19 13:36:04,258 [main] INFO logger_File - Browser Closed
+2020-11-19 13:36:11,532 [main] INFO logger_File - Browser opened successfully
+2020-11-19 13:36:11,536 [main] INFO logger_File - Test Execution Started
+2020-11-19 13:36:11,539 [main] INFO logger_File - Test was failed
+2020-11-19 13:36:11,540 [main] INFO logger_File - method name: registerUsers
+2020-11-19 13:36:14,214 [main] INFO logger_File - Browser Closed
+2020-11-19 13:36:14,261 [main] INFO logger_File - End of Execution
+2020-11-19 15:50:04,839 [main] INFO logger_File - Start of Execution
+2020-11-19 15:50:14,726 [main] INFO logger_File - Browser opened successfully
+2020-11-19 15:50:14,737 [main] INFO logger_File - Test Execution Started
+2020-11-19 15:50:14,758 [main] INFO logger_File - Test was failed
+2020-11-19 15:50:14,759 [main] INFO logger_File - method name: registerUsers
+2020-11-19 15:50:16,869 [main] INFO logger_File - Browser Closed
+2020-11-19 15:50:53,393 [main] INFO logger_File - method name: registerUsers
+2020-11-19 15:50:53,462 [main] INFO logger_File - End of Execution
+2020-11-19 15:51:12,787 [main] INFO logger_File - Start of Execution
+2020-11-19 15:51:23,259 [main] INFO logger_File - Browser opened successfully
+2020-11-19 15:51:23,277 [main] INFO logger_File - Test Execution Started
+2020-11-19 15:51:23,302 [main] INFO logger_File - Test was failed
+2020-11-19 15:51:23,307 [main] INFO logger_File - method name: registerUsers
+2020-11-19 15:51:25,251 [main] INFO logger_File - Browser Closed
+2020-11-19 15:51:25,302 [main] INFO logger_File - End of Execution
+2020-11-19 15:52:10,755 [main] INFO logger_File - Start of Execution
+2020-11-19 15:52:20,229 [main] INFO logger_File - Browser opened successfully
+2020-11-19 15:52:20,242 [main] INFO logger_File - Test Execution Started
+2020-11-19 15:52:20,277 [main] INFO logger_File - Test was failed
+2020-11-19 15:52:20,278 [main] INFO logger_File - method name: registerUsers
+2020-11-19 15:52:23,278 [main] INFO logger_File - Browser Closed
+2020-11-19 15:52:23,337 [main] INFO logger_File - End of Execution
+2020-11-19 15:54:09,882 [main] INFO logger_File - Start of Execution
+2020-11-19 15:54:19,000 [main] INFO logger_File - Browser opened successfully
+2020-11-19 15:54:19,011 [main] INFO logger_File - Test Execution Started
+2020-11-19 15:54:23,769 [main] INFO logger_File - Test was passed successfully
+2020-11-19 15:54:23,815 [main] INFO logger_File - method name: registerUsers
+2020-11-19 15:54:27,972 [main] INFO logger_File - End of Execution
+2020-11-19 15:55:09,728 [main] INFO logger_File - Start of Execution
+2020-11-19 15:55:18,680 [main] INFO logger_File - Browser opened successfully
+2020-11-19 15:55:18,690 [main] INFO logger_File - Test Execution Started
+2020-11-19 15:55:18,710 [main] INFO logger_File - Test was failed
+2020-11-19 15:55:18,711 [main] INFO logger_File - method name: registerUsers
+2020-11-19 15:55:21,125 [main] INFO logger_File - Browser Closed
+2020-11-19 15:55:21,223 [main] INFO logger_File - End of Execution
+2020-11-19 15:56:19,259 [main] INFO logger_File - Start of Execution
+2020-11-19 15:56:19,318 [main] INFO logger_File - Test was failed
+2020-11-19 15:56:19,322 [main] INFO logger_File - method name: registerUsers
+2020-11-19 15:56:19,397 [main] INFO logger_File - End of Execution
+2020-11-19 15:56:45,056 [main] INFO logger_File - Start of Execution
+2020-11-19 15:56:54,265 [main] INFO logger_File - Browser opened successfully
+2020-11-19 15:56:54,276 [main] INFO logger_File - Test Execution Started
+2020-11-19 15:57:02,780 [main] INFO logger_File - Test was passed successfully
+2020-11-19 15:57:02,782 [main] INFO logger_File - method name: registerUsers
+2020-11-19 15:57:03,725 [main] INFO logger_File - Browser Closed
+2020-11-19 15:57:11,590 [main] INFO logger_File - Browser opened successfully
+2020-11-19 15:57:11,592 [main] INFO logger_File - Test Execution Started
+2020-11-19 15:57:19,844 [main] INFO logger_File - Test was passed successfully
+2020-11-19 15:57:19,848 [main] INFO logger_File - method name: registerUsers
+2020-11-19 15:57:20,774 [main] INFO logger_File - Browser Closed
+2020-11-19 15:57:20,826 [main] INFO logger_File - End of Execution
+2020-11-19 16:19:04,556 [main] INFO logger_File - Start of Execution
+2020-11-19 16:19:16,284 [main] INFO logger_File - Browser opened successfully
+2020-11-19 16:19:16,294 [main] INFO logger_File - Test Execution Started
+2020-11-19 16:19:26,906 [main] INFO logger_File - Test was passed successfully
+2020-11-19 16:19:26,907 [main] INFO logger_File - method name: registerUsers
+2020-11-19 16:19:28,492 [main] INFO logger_File - Browser Closed
+2020-11-19 16:19:36,669 [main] INFO logger_File - Browser opened successfully
+2020-11-19 16:19:36,671 [main] INFO logger_File - Test Execution Started
+2020-11-19 16:19:46,439 [main] INFO logger_File - Test was passed successfully
+2020-11-19 16:19:46,441 [main] INFO logger_File - method name: registerUsers
+2020-11-19 16:19:47,843 [main] INFO logger_File - Browser Closed
+2020-11-19 16:19:47,886 [main] INFO logger_File - End of Execution
+2020-11-19 16:21:04,861 [main] INFO logger_File - Start of Execution
+2020-11-19 16:21:16,671 [main] INFO logger_File - Browser opened successfully
+2020-11-19 16:21:16,681 [main] INFO logger_File - Test Execution Started
+2020-11-19 16:21:27,074 [main] INFO logger_File - Test was passed successfully
+2020-11-19 16:21:27,075 [main] INFO logger_File - method name: registerUsers
+2020-11-19 16:21:28,479 [main] INFO logger_File - Browser Closed
+2020-11-19 16:21:37,009 [main] INFO logger_File - Browser opened successfully
+2020-11-19 16:21:37,016 [main] INFO logger_File - Test Execution Started
+2020-11-19 16:21:47,768 [main] INFO logger_File - Test was passed successfully
+2020-11-19 16:21:47,769 [main] INFO logger_File - method name: registerUsers
+2020-11-19 16:21:48,811 [main] INFO logger_File - Browser Closed
+2020-11-19 16:21:48,835 [main] INFO logger_File - End of Execution
+2020-11-19 16:23:05,508 [main] INFO logger_File - Start of Execution
+2020-11-19 16:23:17,183 [main] INFO logger_File - Browser opened successfully
+2020-11-19 16:23:17,192 [main] INFO logger_File - Test Execution Started
+2020-11-19 16:23:17,210 [main] INFO logger_File - Test was failed
+2020-11-19 16:23:17,213 [main] INFO logger_File - method name: registerUsers
+2020-11-19 16:23:21,479 [main] INFO logger_File - Browser Closed
+2020-11-19 16:23:29,663 [main] INFO logger_File - Browser opened successfully
+2020-11-19 16:23:29,666 [main] INFO logger_File - Test Execution Started
+2020-11-19 16:23:29,669 [main] INFO logger_File - Test was failed
+2020-11-19 16:23:29,669 [main] INFO logger_File - method name: registerUsers
+2020-11-19 16:23:32,469 [main] INFO logger_File - Browser Closed
+2020-11-19 16:23:32,522 [main] INFO logger_File - End of Execution
+2020-12-13 10:35:23,153 [main] INFO logger_File - Start of Execution
+2020-12-13 10:35:38,191 [main] INFO logger_File - Browser opened successfully
+2020-12-13 10:35:38,199 [main] INFO logger_File - Test Execution Started
+2020-12-13 10:35:47,670 [main] INFO logger_File - Test was passed successfully
+2020-12-13 10:35:47,671 [main] INFO logger_File - method name: registerUsers
+2020-12-13 10:35:48,575 [main] INFO logger_File - Browser Closed
+2020-12-13 10:35:58,944 [main] INFO logger_File - Browser opened successfully
+2020-12-13 10:35:58,946 [main] INFO logger_File - Test Execution Started
+2020-12-13 10:36:07,213 [main] INFO logger_File - Test was passed successfully
+2020-12-13 10:36:07,214 [main] INFO logger_File - method name: registerUsers
+2020-12-13 10:36:08,035 [main] INFO logger_File - Browser Closed
+2020-12-13 10:36:08,072 [main] INFO logger_File - End of Execution
+2020-12-13 11:22:23,523 [main] INFO logger_File - Start of Execution
+2020-12-13 11:22:37,507 [main] INFO logger_File - Browser opened successfully
+2020-12-13 11:22:37,528 [main] INFO logger_File - Test Execution Started
+2020-12-13 11:22:46,803 [main] INFO logger_File - Test was passed successfully
+2020-12-13 11:22:46,804 [main] INFO logger_File - method name: registerUsers
+2020-12-13 11:22:47,768 [main] INFO logger_File - Browser Closed
+2020-12-13 11:22:54,985 [main] INFO logger_File - method name: registerUsers
+2020-12-13 11:22:55,319 [main] INFO logger_File - End of Execution
+2020-12-18 17:04:55,684 [main] INFO logger_File - Start of Execution
+2020-12-18 17:05:12,189 [main] INFO logger_File - Browser opened successfully
+2020-12-18 17:05:12,198 [main] INFO logger_File - Test Execution Started
+2020-12-18 17:05:20,827 [main] INFO logger_File - Test was passed successfully
+2020-12-18 17:05:20,829 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:05:22,108 [main] INFO logger_File - Browser Closed
+2020-12-18 17:05:30,244 [main] INFO logger_File - Browser opened successfully
+2020-12-18 17:05:30,249 [main] INFO logger_File - Test Execution Started
+2020-12-18 17:05:38,870 [main] INFO logger_File - Test was passed successfully
+2020-12-18 17:05:38,873 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:05:39,961 [main] INFO logger_File - Browser Closed
+2020-12-18 17:05:40,008 [main] INFO logger_File - End of Execution
+2020-12-18 17:07:13,355 [main] INFO logger_File - Start of Execution
+2020-12-18 17:07:24,146 [main] INFO logger_File - Browser opened successfully
+2020-12-18 17:07:24,158 [main] INFO logger_File - Test Execution Started
+2020-12-18 17:07:33,138 [main] INFO logger_File - Test was passed successfully
+2020-12-18 17:07:33,140 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:07:34,087 [main] INFO logger_File - Browser Closed
+2020-12-18 17:07:41,998 [main] INFO logger_File - Browser opened successfully
+2020-12-18 17:07:42,001 [main] INFO logger_File - Test Execution Started
+2020-12-18 17:07:51,000 [main] INFO logger_File - Test was passed successfully
+2020-12-18 17:07:51,002 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:07:51,840 [main] INFO logger_File - Browser Closed
+2020-12-18 17:07:51,859 [main] INFO logger_File - End of Execution
+2020-12-18 17:29:05,217 [main] INFO logger_File - Start of Execution
+2020-12-18 17:29:06,064 [main] INFO logger_File - Test was failed
+2020-12-18 17:29:06,065 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:29:06,099 [main] INFO logger_File - End of Execution
+2020-12-18 17:32:10,257 [main] INFO logger_File - Start of Execution
+2020-12-18 17:32:11,044 [main] INFO logger_File - Test was failed
+2020-12-18 17:32:11,046 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:32:11,078 [main] INFO logger_File - End of Execution
+2020-12-18 17:43:11,975 [main] INFO logger_File - Start of Execution
+2020-12-18 17:43:22,473 [main] INFO logger_File - Browser opened successfully
+2020-12-18 17:43:22,483 [main] INFO logger_File - Test Execution Started
+2020-12-18 17:43:31,055 [main] INFO logger_File - Test was passed successfully
+2020-12-18 17:43:31,058 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:43:32,058 [main] INFO logger_File - Browser Closed
+2020-12-18 17:43:39,950 [main] INFO logger_File - Browser opened successfully
+2020-12-18 17:43:39,952 [main] INFO logger_File - Test Execution Started
+2020-12-18 17:43:48,304 [main] INFO logger_File - Test was passed successfully
+2020-12-18 17:43:48,307 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:43:49,461 [main] INFO logger_File - Browser Closed
+2020-12-18 17:43:49,498 [main] INFO logger_File - End of Execution
+2020-12-18 17:45:04,033 [main] INFO logger_File - Start of Execution
+2020-12-18 17:45:16,621 [main] INFO logger_File - Browser opened successfully
+2020-12-18 17:45:16,632 [main] INFO logger_File - Test Execution Started
+2020-12-18 17:45:25,358 [main] INFO logger_File - Test was passed successfully
+2020-12-18 17:45:25,361 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:45:26,485 [main] INFO logger_File - Browser Closed
+2020-12-18 17:45:34,974 [main] INFO logger_File - Browser opened successfully
+2020-12-18 17:45:34,983 [main] INFO logger_File - Test Execution Started
+2020-12-18 17:45:43,211 [main] INFO logger_File - Test was passed successfully
+2020-12-18 17:45:43,213 [main] INFO logger_File - method name: registerUsers
+2020-12-18 17:45:44,199 [main] INFO logger_File - Browser Closed
+2020-12-18 17:45:44,243 [main] INFO logger_File - End of Execution
+2020-12-25 22:37:24,552 [main] INFO logger_File - Browser opened successfully
+2020-12-25 22:42:28,796 [main] INFO logger_File - Browser opened successfully
+2020-12-25 22:42:38,199 [main] INFO logger_File - Browser Closed
+2020-12-25 22:42:48,723 [main] INFO logger_File - Browser opened successfully
+2020-12-25 22:42:58,305 [main] INFO logger_File - Browser Closed
+2021-01-07 09:49:41,542 [main] INFO logger_File - Browser opened successfully
+2021-01-07 09:49:53,151 [main] INFO logger_File - Browser Closed
+2021-01-07 09:50:04,656 [main] INFO logger_File - Browser opened successfully
+2021-01-07 09:50:14,363 [main] INFO logger_File - Browser Closed
+2021-01-12 17:13:32,043 [main] INFO logger_File - Browser opened successfully
+2021-01-12 17:13:42,867 [main] INFO logger_File - Browser Closed
+2021-01-12 17:13:54,610 [main] INFO logger_File - Browser opened successfully
+2021-01-12 17:14:05,608 [main] INFO logger_File - Browser Closed
+2021-01-14 11:15:37,060 [main] INFO logger_File - Start of Execution
+2021-01-14 11:15:51,039 [main] INFO logger_File - Browser opened successfully
+2021-01-14 11:15:51,046 [main] INFO logger_File - Test Execution Started
+2021-01-14 11:15:59,408 [main] INFO logger_File - Test was passed successfully
+2021-01-14 11:15:59,411 [main] INFO logger_File - method name: registerUsers
+2021-01-14 11:16:00,246 [main] INFO logger_File - Browser Closed
+2021-01-14 11:16:10,628 [main] INFO logger_File - Browser opened successfully
+2021-01-14 11:16:10,633 [main] INFO logger_File - Test Execution Started
+2021-01-14 11:16:18,973 [main] INFO logger_File - Test was passed successfully
+2021-01-14 11:16:18,977 [main] INFO logger_File - method name: registerUsers
+2021-01-14 11:16:19,798 [main] INFO logger_File - Browser Closed
+2021-01-14 11:16:19,836 [main] INFO logger_File - End of Execution
+2021-01-14 11:17:51,246 [main] INFO logger_File - Browser opened successfully
+2021-01-14 11:18:00,330 [main] INFO logger_File - Browser Closed
+2021-01-14 11:18:11,032 [main] INFO logger_File - Browser opened successfully
+2021-01-14 11:18:20,232 [main] INFO logger_File - Browser Closed
