@@ -19,7 +19,7 @@ import org.testng.annotations.Test;
 import core.Base;
 
 public class SelectProductTest extends Base{
-	
+	//before Method
 	@BeforeMethod
 	public void beforeMethod() {
 		Base.initializeDriver();
