@@ -177,5 +177,10 @@ public class DriverUtility  extends Base{
 		}
 
 	}
+	
+	public static WebElement expandRootElement(WebElement element) {
+		WebElement ele = (WebElement) ((JavascriptExecutor) driver).executeScript("return arguments[0].shadowRoot",element);
+		return ele;
+	}
 
 }

@@ -1,101 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="40833" started-at="2021-01-14T19:17:39Z" finished-at="2021-01-14T19:18:20Z">
+  <suite name="Default suite" duration-ms="7045" started-at="2021-03-07T20:11:28Z" finished-at="2021-03-07T20:11:35Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="40833" started-at="2021-01-14T19:17:39Z" finished-at="2021-01-14T19:18:20Z">
-      <class name="tests.RegisterUserTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.RegisterUserTest@23e028a9]" name="beforeMethod" is-config="true" duration-ms="11183" started-at="2021-01-14T19:17:40Z" finished-at="2021-01-14T19:17:51Z">
+    <test name="Default test" duration-ms="7045" started-at="2021-03-07T20:11:28Z" finished-at="2021-03-07T20:11:35Z">
+      <class name="tests.SelectProductTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.SelectProductTest@5ae63ade]" name="beforeMethod" is-config="true" duration-ms="4191" started-at="2021-03-07T20:11:28Z" finished-at="2021-03-07T20:11:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="registerUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.RegisterUserTest@23e028a9]" name="registerUsers" duration-ms="8236" started-at="2021-01-14T19:17:51Z" data-provider="getRegisterData" finished-at="2021-01-14T19:17:59Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Ahmad]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Fawad]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[fawad@gmail.com]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[5.5565565E7]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[password1]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[password1]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="readPDF()[pri:0, instance:tests.SelectProductTest@5ae63ade]" name="readPDF" duration-ms="1542" started-at="2021-03-07T20:11:32Z" finished-at="2021-03-07T20:11:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- registerUsers -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.RegisterUserTest@23e028a9]" name="afterMethod" is-config="true" duration-ms="840" started-at="2021-01-14T19:17:59Z" finished-at="2021-01-14T19:18:00Z">
+        </test-method> <!-- readPDF -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.SelectProductTest@5ae63ade]" name="afterMethod" is-config="true" duration-ms="1275" started-at="2021-03-07T20:11:34Z" finished-at="2021-03-07T20:11:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.RegisterUserTest@23e028a9]" name="beforeMethod" is-config="true" duration-ms="10699" started-at="2021-01-14T19:18:00Z" finished-at="2021-01-14T19:18:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="registerUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.RegisterUserTest@23e028a9]" name="registerUsers" duration-ms="8388" started-at="2021-01-14T19:18:11Z" data-provider="getRegisterData" finished-at="2021-01-14T19:18:19Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Mahmoud]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Sharifi]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[sharifi@gmail.com]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[4.448882222E9]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[password2]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[password2]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registerUsers -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.RegisterUserTest@23e028a9]" name="afterMethod" is-config="true" duration-ms="811" started-at="2021-01-14T19:18:19Z" finished-at="2021-01-14T19:18:20Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-      </class> <!-- tests.RegisterUserTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- tests.SelectProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

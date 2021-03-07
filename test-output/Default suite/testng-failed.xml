@@ -3,13 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tests.ContactTest">
+      <class name="tests.ReadFromCSVfile">
         <methods>
-          <include name="beforeMethod"/>
-          <include name="sendInquiry" invocation-numbers="0"/>
-          <include name="afterMethod"/>
+          <include name="readFromCSV"/>
         </methods>
-      </class> <!-- tests.ContactTest -->
+      </class> <!-- tests.ReadFromCSVfile -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
