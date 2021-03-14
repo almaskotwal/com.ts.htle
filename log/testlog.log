@@ -934,3 +934,14 @@
 2021-03-05 21:34:24,473 - logger_File -INFO - Browser Closed
 2021-03-07 12:11:32,839 - logger_File -INFO - Browser opened successfully
 2021-03-07 12:11:35,675 - logger_File -INFO - Browser Closed
+2021-03-07 17:11:24,391 - logger_File -INFO - Browser opened successfully
+2021-03-07 17:11:31,215 - logger_File -INFO - Browser Closed
+2021-03-07 17:14:57,391 - logger_File -INFO - Browser opened successfully
+2021-03-07 17:14:59,928 - logger_File -INFO - Browser Closed
+2021-03-07 17:20:22,005 - logger_File -INFO - Browser opened successfully
+2021-03-07 17:20:24,164 - org.apache.pdfbox.cos.COSDocument -WARN - Warning: You did not close a PDF Document
+2021-03-07 17:20:24,697 - logger_File -INFO - Browser Closed
+2021-03-07 17:21:35,930 - logger_File -INFO - Browser opened successfully
+2021-03-07 17:21:38,395 - logger_File -INFO - Browser Closed
+2021-03-07 17:35:11,597 - logger_File -INFO - Browser opened successfully
+2021-03-07 17:35:16,040 - logger_File -INFO - Browser Closed

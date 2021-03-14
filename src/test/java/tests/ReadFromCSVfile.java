@@ -17,7 +17,9 @@ public class ReadFromCSVfile {
 		BufferedReader buffer = new BufferedReader(new FileReader(filePath));
 		while((line = buffer.readLine()) !=null) {
 			String[] values = line.split(",");
-			System.out.println("Name: " + values[0] + ", Zip code: " + values[5]);// prints comma separated specific indices 
+			System.out.println("Name: " + values[0] + ", Zip code: " + values[5]);// prints comma separated specific indices
 		}
+		
 	}
+	
 }
