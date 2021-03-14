@@ -40,9 +40,10 @@ public class DownloadFiles {
 			Thread.sleep(5000);
 			Assert.assertTrue(downloadedFile.exists());
 			downloadedFile.delete();
+			driver.close();
 		}
 		
-		
+		//comment to master
 	}
 
 	
