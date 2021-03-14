@@ -42,9 +42,7 @@ public class DownloadFiles {
 			downloadedFile.delete();
 			driver.close();
 		}
-		
-		//comment
-		//another comment!!
+
 	}
 
 	
